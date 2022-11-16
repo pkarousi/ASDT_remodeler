@@ -1,0 +1,27 @@
+Annotated transcript	Splice junction combination
+misc_RNA1	Exon 4UP
+misc_RNA2	Exon 4
+misc_RNA3	Intron 4_5
+misc_RNA4	Exon 5
+misc_RNA5	Exon 5EXT
+misc_RNA6	Exon 5a
+misc_RNA7	Exon 5b
+misc_RNA8	Exon 5c
+misc_RNA9	Exon 6b
+misc_RNA10	Exon 6b2
+misc_RNA11	Exon 6c
+misc_RNA12	Exon 6d
+misc_RNA13	Exon 6
+misc_RNA14	Exon 6EXT
+misc_RNA15	Exon 7tr
+misc_RNA16	Exon 7
+misc_RNA17	poly(A)
+misc_RNA18	Exon 1
+misc_RNA19	Exon 1c
+misc_RNA20	Exon 1d
+misc_RNA21	Exon 1b
+misc_RNA22	Exon 2
+misc_RNA23	Exon 3
+misc_RNA24	Exon 3tr
+misc_RNA25	Exon 4UP
+misc_RNA26	Exon 4

@@ -1,0 +1,16 @@
+Splice junction	Frequency
+Exon 4UP/Exon 4-Intron 4_5	37
+Exon 4UP/Exon 4-Exon 5/Exon 5EXT/Exon 5a/Exon 5b/Exon 5c	1076
+Intron 4_5-Exon 5/Exon 5EXT/Exon 5a/Exon 5b/Exon 5c	35
+Exon 5-Exon 6b/Exon 6b2/Exon 6c/Exon 6d/Exon 6/Exon 6EXT	575
+Exon 5EXT-Exon 6b/Exon 6b2/Exon 6c/Exon 6d/Exon 6/Exon 6EXT	19
+Exon 5-Exon 7tr/Exon 7	28
+Exon 5-Exon 3tr	55
+Exon 5EXT-Exon 4	1
+Exon 5-Exon 4	1
+Exon 6-Exon 7tr/Exon 7	99
+Exon 1/Exon 1c/Exon 1d-Exon 2	1076
+Exon 2-Exon 3	723
+Exon 2-Exon 3tr	14
+Exon 2-Exon 4	18
+Exon 3/Exon 3tr-Exon 4	809

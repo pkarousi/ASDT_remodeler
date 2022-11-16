@@ -1,0 +1,17 @@
+Exon 4UP/Exon 4-Exon 5EXT-Exon 6b/Exon 6b2/Exon 6c/Exon 6d/Exon 6/Exon 6EXT<--->Exon 2-Exon 3	3
+Exon 4UP/Exon 4-Exon 5/Exon 5EXT/Exon 5a/Exon 5b/Exon 5c<--->Exon 2-Exon 3	28
+Exon 4UP/Exon 4-Exon 5-Exon 6b/Exon 6b2/Exon 6c/Exon 6d/Exon 6/Exon 6EXT<--->Exon 2-Exon 3	43
+Exon 4UP/Exon 4-Exon 5/Exon 5EXT/Exon 5a/Exon 5b/Exon 5c<--->Exon 1/Exon 1c/Exon 1d-Exon 2-Exon 3	1
+Exon 4UP/Exon 4-Exon 5/Exon 5EXT/Exon 5a/Exon 5b/Exon 5c<--->Exon 2-Exon 3tr	1
+Exon 4UP/Exon 4-Exon 5/Exon 5EXT/Exon 5a/Exon 5b/Exon 5c<--->Exon 6-Exon 7tr/Exon 7	1
+Exon 4UP/Exon 4-Exon 5/Exon 5EXT/Exon 5a/Exon 5b/Exon 5c<--->Exon 1/Exon 1c/Exon 1d-Exon 2	1
+Intron 4_5-Exon 5/Exon 5EXT/Exon 5a/Exon 5b/Exon 5c<--->Exon 2-Exon 3	1
+Exon 5-Exon 6b/Exon 6b2/Exon 6c/Exon 6d/Exon 6/Exon 6EXT<--->Exon 3/Exon 3tr-Exon 4	16
+Exon 5EXT-Exon 6b/Exon 6b2/Exon 6c/Exon 6d/Exon 6/Exon 6EXT<--->Exon 2-Exon 3tr	1
+Exon 5-Exon 6b/Exon 6b2/Exon 6c/Exon 6d/Exon 6/Exon 6EXT<--->Exon 2-Exon 3-Exon 4	4
+Exon 5-Exon 6b/Exon 6b2/Exon 6c/Exon 6d/Exon 6/Exon 6EXT<--->Exon 2-Exon 3	5
+Exon 5-Exon 6-Exon 7tr/Exon 7<--->Exon 3/Exon 3tr-Exon 4	2
+Exon 5EXT-Exon 6b/Exon 6b2/Exon 6c/Exon 6d/Exon 6/Exon 6EXT<--->Exon 2-Exon 3-Exon 4	6
+Exon 5-Exon 6b/Exon 6b2/Exon 6c/Exon 6d/Exon 6/Exon 6EXT<--->Exon 1/Exon 1c/Exon 1d-Exon 2<--->Exon 3/Exon 3tr-Exon 4	1
+Exon 5-Exon 7tr/Exon 7<--->Exon 1/Exon 1c/Exon 1d-Exon 2	1
+Exon 1/Exon 1c/Exon 1d-Exon 2<--->Exon 3/Exon 3tr-Exon 4	17

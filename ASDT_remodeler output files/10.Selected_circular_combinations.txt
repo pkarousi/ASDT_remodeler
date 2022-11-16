@@ -1,0 +1,3 @@
+Splice junction combination	Frequency
+Exon 4-Exon 5-Exon 3tr-Exon 4	31
+Exon 4-Exon 5-Exon 4	1

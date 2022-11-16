@@ -1,0 +1,12 @@
+Exon 4UP/Exon 4-Intron 4_5-Exon 5/Exon 5EXT/Exon 5a/Exon 5b/Exon 5c	30
+Exon 4UP/Exon 4-Exon 5-Exon 6b/Exon 6b2/Exon 6c/Exon 6d/Exon 6/Exon 6EXT	138
+Exon 4UP/Exon 4-Exon 5-Exon 3tr	19
+Exon 4UP/Exon 4-Exon 5-Exon 6-Exon 7tr/Exon 7	12
+Exon 4UP/Exon 4-Exon 5-Exon 7tr/Exon 7	10
+Exon 5-Exon 6-Exon 7tr/Exon 7	40
+Exon 1/Exon 1c/Exon 1d-Exon 2-Exon 3	271
+Exon 1/Exon 1c/Exon 1d-Exon 2-Exon 3-Exon 4	42
+Exon 1/Exon 1c/Exon 1d-Exon 2-Exon 3tr-Exon 4	3
+Exon 1/Exon 1c/Exon 1d-Exon 2-Exon 3tr	1
+Exon 2-Exon 3-Exon 4	34
+Exon 2-Exon 3tr-Exon 4	2
