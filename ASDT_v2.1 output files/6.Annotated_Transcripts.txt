@@ -1,0 +1,27 @@
+Annotated transcript	Splice junction combination
+misc_RNA1	1(1)
+misc_RNA2	1(2)
+misc_RNA3	2
+misc_RNA4	3(1)
+misc_RNA5	3(2)
+misc_RNA6	3(3)
+misc_RNA7	3(4)
+misc_RNA8	3(5)
+misc_RNA9	4(1)
+misc_RNA10	4(2)
+misc_RNA11	4(3)
+misc_RNA12	4(4)
+misc_RNA13	4(5)
+misc_RNA14	4(6)
+misc_RNA15	5(1)
+misc_RNA16	5(2)
+misc_RNA17	6
+misc_RNA18	7(1)
+misc_RNA19	7(2)
+misc_RNA20	7(3)
+misc_RNA21	7(4)
+misc_RNA22	8
+misc_RNA23	9(1)
+misc_RNA24	9(2)
+misc_RNA25	10(1)
+misc_RNA26	10(2)
